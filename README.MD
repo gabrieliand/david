@@ -1,1 +1,1 @@
-This is a readme
+https://git-scm.com/doc
